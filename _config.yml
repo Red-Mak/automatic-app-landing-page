@@ -34,45 +34,45 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : One purchase, tree applications.
+    description                           : Purchase once and get an iPhone, iPad and AppleTV application!
+    fontawesome_icon_name                 : dollar-sign
+
+  - title                                 : Your Favorite/Watched media are synced over all your devices.
+    description                           : Start a movie or a serie on your iPhone and continue watching on your AppleTV.
+    fontawesome_icon_name                 : sync-alt
+
   - title                                 : Fast parsing
     description                           : iProTv uses best algorithme to parse your m3u files!
-    fontawesome_icon_name                 : sync
-    
-#   - title                                 : iPhone Device Preview
-#     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-#     fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : fighter-jet
 
-#   - title                                 : Video Support
-#     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-#     fontawesome_icon_name                 : play-circle
+  - title                                 : Almost all video formats are handled.
+    description                           : iProTv uses VLC player to play all video formats.
+    fontawesome_icon_name                 : video
 
-#   - title                                 : Automatic Icon and Metadata
-#     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-#     fontawesome_icon_name                 : sync
-
-#   - title                                 : Easy to Tweak
-#     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-#     fontawesome_icon_name                 : adjust
+  - title                                 : Resume where you stop.
+    description                           : Resume where you stop watching (even this is synced :) )
+    fontawesome_icon_name                 : play
   
-#   - title                                 : Feature List
-#     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-#     fontawesome_icon_name                 : star
+  - title                                 : 6 frofiles !
+    description                           : Every member of your family have a unique prifile, everyone is happy.
+    fontawesome_icon_name                 : id-card
 
-#   - title                                 : Smart App Banner
-#     description                           : Display a smart app banner on iOS devices.
-#     fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Dark/light mode
+    description                           : iProTv follow the iOS/tvOS settings, it will update the interface everytime you change to dark or light mode.
+    fontawesome_icon_name                 : adjust
 
-#   - title                                 : Social Links
-#     description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-#     fontawesome_icon_name                 : link
+  - title                                 : Gorgeous interface.
+    description                           : iProTv is designed for the ease of use and follow Apple UX guide lines.
+    fontawesome_icon_name                 : palette
 
-#   - title                                 : FontAwesome Support
-#     description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-#     fontawesome_icon_name                 : info-circle
+  - title                                 : 4K support
+    description                           : iProTv support 4k video!
+    fontawesome_icon_name                 : border-none
 
-#   - title                                 : # New Feature Title
-#     description                           : # New Feature Description
-#     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : High efficiency
+    description                           : iProTv is developed to use less ressources so it will not drain you battery like other apps ;)
+    fontawesome_icon_name                 : battery-three-quarters
 
 
 
