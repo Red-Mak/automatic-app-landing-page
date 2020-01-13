@@ -68,7 +68,7 @@ features                                  :
 
   - title                                 : 4K support
     description                           : iProTv support 4k video!
-    fontawesome_icon_name                 : border-none
+    fontawesome_icon_name                 : video
 
   - title                                 : High efficiency
     description                           : iProTv is developed to use less ressources so it will not drain you battery like other apps ;)
