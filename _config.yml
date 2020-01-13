@@ -32,11 +32,11 @@ youtube_username                          :
 
 
 # Feature List                            Edit, add or remove features to be presented.
-# features                                  :
+features                                  :
 
-#   - title                                 : GitHub Pages Jekyll Theme
-#     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-#     fontawesome_icon_name                 : magic
+  - title                                 : Fast parsing
+    description                           : iProTv uses best algorithme to parse your m3u files!
+    fontawesome_icon_name                 : sync
     
 #   - title                                 : iPhone Device Preview
 #     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
