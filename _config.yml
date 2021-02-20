@@ -34,44 +34,44 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : One purchase, tree applications.
+  - title                                 : One purchase, three applications.
     description                           : Purchase once and get an iPhone, iPad and AppleTV application!
     fontawesome_icon_name                 : dollar-sign
 
-  - title                                 : Your Favorite/Watched media are synced over all your devices.
-    description                           : Start a movie or a serie on your iPhone and continue watching on your AppleTV.
+  - title                                 : Your favorites and watched media is synced to all your devices.
+    description                           : Start a movie or a series on your iPhone and continue watching it on your AppleTV.
     fontawesome_icon_name                 : sync-alt
 
-  - title                                 : Fast parsing
-    description                           : iProTv uses best algorithme to parse your m3u files!
+  - title                                 : Fast parsing.
+    description                           : iProTV uses the best algorithm to parse your M3U files!
     fontawesome_icon_name                 : fighter-jet
 
-  - title                                 : Almost all video formats are handled.
-    description                           : iProTv uses VLC player to play all video formats.
+  - title                                 : Almost all video formats are supported.
+    description                           : iProTV uses VLC player to play all video formats.
     fontawesome_icon_name                 : video
 
-  - title                                 : Resume where you stop.
-    description                           : Resume where you stop watching (even this is synced!)
+  - title                                 : Resume where you left off.
+    description                           : Carry on playing your content where you stopped, even across your devices!
     fontawesome_icon_name                 : play
   
-  - title                                 : 6 frofiles !
-    description                           : Every member of your family have a unique profile, everyone is happy.
+  - title                                 : 6 profiles!
+    description                           : Every member of your family can have a unique profile, make everyone happy.
     fontawesome_icon_name                 : id-card
 
-  - title                                 : Dark/light mode
-    description                           : iProTv follow the iOS/tvOS settings, it will update the interface everytime you change to dark or light mode.
+  - title                                 : Light/dark mode.
+    description                           : iProTV will follow your iOS/tvOS appearance, it will update the interface everytime you change from light to dark mode.
     fontawesome_icon_name                 : adjust
 
   - title                                 : Gorgeous interface.
-    description                           : iProTv is designed for the ease of use and follow Apple UX guide lines.
+    description                           : iProTV is designed for ease-of-use and follows Apple's UX guidelines.
     fontawesome_icon_name                 : palette
 
-  - title                                 : 4K support
-    description                           : iProTv support 4k video!
+  - title                                 : 4K support.
+    description                           : iProTV support 4K video!
     fontawesome_icon_name                 : video
 
-  - title                                 : High efficiency
-    description                           : iProTv is developed to use less ressources so it will not drain you battery like other apps ;)
+  - title                                 : High efficiency.
+    description                           : iProTV is developed to use less ressources so it will not drain your battery... unlike some other apps ;)
     fontawesome_icon_name                 : battery-three-quarters
 
 
