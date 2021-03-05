@@ -38,7 +38,7 @@ features                                  :
     description                           : Purchase once and get an iPhone, iPad and AppleTV application!
     fontawesome_icon_name                 : dollar-sign
 
-  - title                                 : Your favorites and watched media is synced to all your devices.
+  - title                                 : Your favorites and watched media are synced to all your devices.
     description                           : Start a movie or a series on your iPhone and continue watching it on your AppleTV.
     fontawesome_icon_name                 : sync-alt
 
@@ -63,7 +63,7 @@ features                                  :
     fontawesome_icon_name                 : adjust
 
   - title                                 : Gorgeous interface.
-    description                           : iProTV is designed for ease-of-use and follows Apple's UX guidelines.
+    description                           : iProTV is designed for ease-of-use and follows Apple's UI guidelines.
     fontawesome_icon_name                 : palette
 
   - title                                 : 4K support.
@@ -71,7 +71,7 @@ features                                  :
     fontawesome_icon_name                 : video
 
   - title                                 : High efficiency.
-    description                           : iProTV is developed to use less ressources so it will not drain your battery... unlike some other apps ;)
+    description                           : iProTV is developed to use less resources so it will not drain your battery... unlike some other apps ;)
     fontawesome_icon_name                 : battery-three-quarters
 
 
